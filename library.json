@@ -1,0 +1,10 @@
+{
+  "name": "Arduino-Timer",
+  "keywords": "timer",
+  "description": "Arduino Timer Library",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/JChristensen/Timer.git"
+  }
+}
